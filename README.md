@@ -1,14 +1,14 @@
 # Data set:-
 
 # Best Models code Flow :-
- |
- |-- ### MK3.1.2_GOD_MRI_CT.ipynb ( 17/01/2025 )
- |   MSE: 0.063136, SSIM: 0.449328, FID: 221.746994, VGG Loss: 2.912386
- |
- |-- ### MK3.1.2_v4_50epochs_GOD.ipynb ( 24/04/2025 )
- |   MSE: 0.072253, SSIM: 0.702594, FID: 174.542770, VGG Loss: 2.671596
- |
- |-- ## Check Point 1 (26/05/2025)
+
+### MK3.1.2_GOD_MRI_CT.ipynb ( 17/01/2025 )
+- MSE: 0.063136, SSIM: 0.449328, FID: 221.746994, VGG Loss: 2.912386
+
+### MK3.1.2_v4_50epochs_GOD.ipynb ( 24/04/2025 )
+- MSE: 0.072253, SSIM: 0.702594, FID: 174.542770, VGG Loss: 2.671596
+
+## Check Point 1 (26/05/2025)
 
 
 
