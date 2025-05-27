@@ -14,6 +14,10 @@ https://drive.google.com/drive/u/1/folders/1mtTygiVIjpb8gmSn3h2RKz272qI7S2-i
 
 ## Check Point 1 (26/05/2025)
 
+### MK6.0.1_CP1
+- MSE: 0.065860, SSIM: 0.678714, FID: 175.659180, VGG Loss: 2.517590
+
+### 
 
 
 # Ideas to think about
