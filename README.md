@@ -17,6 +17,10 @@ https://drive.google.com/drive/u/1/folders/1mtTygiVIjpb8gmSn3h2RKz272qI7S2-i
 ### MK6.0.1_CP1
 - MSE: 0.065860, SSIM: 0.678714, FID: 175.659180, VGG Loss: 2.517590
 
+### MK6.0.3_CP1
+- MSE: 0.056884, SSIM: 0.591850, FID: 166.765396, VGG Loss: 2.724192
+
+  
 ### 
 
 
