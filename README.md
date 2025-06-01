@@ -28,10 +28,10 @@ https://drive.google.com/drive/u/1/folders/1mtTygiVIjpb8gmSn3h2RKz272qI7S2-i
 
 ## Check Point 2 (01/06/2025)
 
-### MK6.2.0_CP1
+### MK6.2.0_CP2
 - MSE: 0.018466, SSIM: 0.823152, FID: 113.933151, VGG Loss: 1.602489
 
-### MK6.2.1_CP1
+### MK6.2.1_CP2
 - 
 
 ### 
