@@ -32,7 +32,7 @@ https://drive.google.com/drive/u/1/folders/1mtTygiVIjpb8gmSn3h2RKz272qI7S2-i
 - MSE: 0.018466, SSIM: 0.823152, FID: 113.933151, VGG Loss: 1.602489
 
 ### MK6.2.1_CP2
-- 
+- MSE: 0.015199, SSIM: 0.852237, FID: 104.621910, VGG Loss: 1.428501
 
 ### 
 
