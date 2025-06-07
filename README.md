@@ -39,6 +39,7 @@ https://drive.google.com/drive/u/1/folders/1mtTygiVIjpb8gmSn3h2RKz272qI7S2-i
 ## MK6.3.0_CP3
 - MSE: 0.013473, SSIM: 0.866290, FID: 97.263969, VGG Loss: 1.324233
 
+
 ### 
 
 # Ideas to think about
